@@ -1,7 +1,8 @@
 # Lab-1_202001465
 
-##IT314-Software Engineering Lab-1
-##Identifying Functional and Non-Functional Requirements
+# IT314-Software Engineering Lab-1
+
+## Identifying Functional and Non-Functional Requirements
 
 ### Q.1. Identify Functrional Requirements and Non-Functional Requirements:
 
